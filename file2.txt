@@ -1,3 +1,4 @@
 {
 i am file2
 }
+hi i am new commit-2
